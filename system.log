@@ -1,0 +1,177 @@
+Nov 13 00:07:02 Agils-MacBook-Pro syslogd[400]: ASL Sender Statistics
+Nov 13 00:21:16 Agils-MacBook-Pro syslogd[400]: ASL Sender Statistics
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 00:30:00 Agils-MacBook-Pro syslogd[400]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 00:33:29 Agils-MacBook-Pro syslogd[400]: ASL Sender Statistics
+Nov 13 00:56:49 Agils-MacBook-Pro syslogd[400]: ASL Sender Statistics
+Nov 13 01:10:16 Agils-MacBook-Pro syslogd[400]: ASL Sender Statistics
+Nov 13 01:16:33 Agils-MacBook-Pro loginwindow[12185]: USER_PROCESS: 12185 console
+Nov 13 01:16:48 Agils-MacBook-Pro sessionlogoutd[14893]: DEAD_PROCESS: 12185 console
+Nov 13 01:16:55 Agils-MacBook-Pro shutdown[14918]: SHUTDOWN_TIME: 1794512815 216440
+Nov 13 11:04:57 Agils-MacBook-Pro bootlog[0]: BOOT_TIME 1794548097 515380
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 11:05:20 Agils-MacBook-Pro syslogd[396]: ASL Sender Statistics
+Nov 13 11:05:24 Agils-MacBook-Pro loginwindow[436]: USER_PROCESS: 436 console
+Nov 13 11:17:34 Agils-MacBook-Pro syslogd[396]: ASL Sender Statistics
+Nov 13 11:28:03 Agils-MacBook-Pro syslogd[396]: ASL Sender Statistics
+Nov 13 11:44:07 Agils-MacBook-Pro syslogd[396]: ASL Sender Statistics
+Nov 13 11:55:49 Agils-MacBook-Pro syslogd[396]: ASL Sender Statistics
+Nov 13 12:09:27 Agils-MacBook-Pro syslogd[396]: ASL Sender Statistics
+Nov 13 12:22:34 Agils-MacBook-Pro syslogd[396]: ASL Sender Statistics
+Nov 13 12:38:44 Agils-MacBook-Pro syslogd[396]: ASL Sender Statistics
+Nov 13 12:40:21 Agils-MacBook-Pro sessionlogoutd[3972]: DEAD_PROCESS: 436 console
+Nov 13 12:40:22 Agils-MacBook-Pro shutdown[3975]: SHUTDOWN_TIME: 1794553822 69461
+Nov 13 13:36:54 Agils-MacBook-Pro bootlog[0]: BOOT_TIME 1794557214 325897
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Nov 13 13:38:08 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 13:38:12 Agils-MacBook-Pro loginwindow[447]: USER_PROCESS: 447 console
+Nov 13 13:49:13 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 13:59:36 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 14:09:51 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 14:20:47 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 14:30:47 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 14:44:59 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 14:55:52 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 15:07:39 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 15:17:40 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 15:27:40 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 15:45:17 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 15:57:53 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 16:08:12 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 16:19:52 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 16:31:03 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 16:41:03 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 16:51:03 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 17:01:03 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 17:12:39 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 17:22:40 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 17:32:43 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 17:42:43 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 17:52:43 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 17:58:12 Agils-MacBook-Pro sessionlogoutd[7798]: DEAD_PROCESS: 447 console
+Nov 13 18:03:34 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 18:11:35 Agils-MacBook-Pro loginwindow[7805]: USER_PROCESS: 7805 console
+Nov 13 18:14:24 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 18:25:17 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 18:31:20 Agils-MacBook-Pro sessionlogoutd[9053]: DEAD_PROCESS: 7805 console
+Nov 13 18:35:54 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 18:46:32 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 18:59:02 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 19:09:23 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 19:31:32 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 19:37:33 Agils-MacBook-Pro loginwindow[9060]: USER_PROCESS: 9060 console
+Nov 13 19:42:48 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
+Nov 13 19:53:07 Agils-MacBook-Pro syslogd[407]: ASL Sender Statistics
